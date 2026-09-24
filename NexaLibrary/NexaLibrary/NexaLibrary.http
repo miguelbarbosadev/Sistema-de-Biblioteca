@@ -1,0 +1,6 @@
+@NexaLibrary_HostAddress = http://localhost:5031
+
+GET {{NexaLibrary_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
